@@ -10,3 +10,4 @@
 * [Shark]() - Network Packate analysis tool
 * [DroidBox](https://github.com/pjlantz/droidbox) - Dynamic analysis of Android apps
 * [Wi-Fi Kill](https://wifikillapk.com/) - Disable other Users from WiFi Access
+* [MSPY](https://www.mspy.com/) - mSpy is a computer security for parental control. Helps parents to give attention to their children online activities. It checks WhatsApp, Facebook, massage and snapchat messages. mSpy is a computer security for parental control.
